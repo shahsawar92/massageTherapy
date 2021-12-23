@@ -2241,7 +2241,7 @@ header {
     line-height: 1;
     padding-bottom: 10px; }
     .features-wrapper h4 a {
-      font-size: 24px;
+      font-size: 18px;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -3130,6 +3130,7 @@ header {
       color: #569C9C; } }
 
 .single-item {
+  height: 600px;
   padding: 75px;
   border: 2px solid #d8dbff;
   -webkit-transition: all 0.3s ease-out 0s;
